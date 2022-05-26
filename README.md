@@ -28,4 +28,3 @@ Here is a short summary of the projects showcased in this repo. For technical de
 
 ### 3. Corporate Research Project - Sensitive Pen for Dysgraphia Detection
 
-This is
