@@ -18,13 +18,13 @@ Here is a short summary of the projects showcased in this repo. For technical de
 - **Project Description:** A Data Challenge organized by BCG Gamma on Parisian delivery scheduling. We were asked for two deliverables:
   - a predictive model for Parisian traffic density using public data.
   - a strategy to organize a delivery company's driver schedule according to our model's results.
-- **Final Result:** We built a simple Catboost model with heavy feature engineering. Model performed extremely well when including environmental features such as weather, temperature and covid restrictions state. **Our group won the challenge** by providing the two best deliverables.
+- **Final Result:** We built a simple Catboost model with heavy feature engineering. Model performed extremely well when including environmental features such as weather, temperature and covid restrictions state. Our group **won the challenge** by providing the two best deliverables.
 
 ### 2. Eleven Strategy Hackathon - Worksite Monitoring
 
 - **Duration:** 1 week.
 - **Project Description:** A Hackathon organized by Eleven Strategy to ensure worksite safety by "utilizing Computer Vision technology". We were asked to develop a convolutional model to detect workers on worksites and use it to produce an on-site security protocol.
-- **Final Result:** We used worksite annotated images to train Facebook's Detectron2. The model was transfer learned and produced extremely satisfying results in practice. We then created an API on Streamlit that would identify workers in real-time by processing on-site security camera images. Alerts would be sent when workers were detected in an unsual zone of the worksite. **Our group finished second** of the Hackathon.
+- **Final Result:** We used worksite annotated images to train Facebook's Detectron2. The model was transfer learned and produced extremely satisfying results in practice. We then created an API on Streamlit that would identify workers in real-time by processing on-site security camera images. Alerts would be sent when workers were detected in an unsual zone of the worksite. Our group **finished second** of the Hackathon.
 
 ### 3. Corporate Research Project - Sensitive Pen for Dysgraphia Detection
 
