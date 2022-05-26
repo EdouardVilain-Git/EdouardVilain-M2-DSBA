@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repo is a collection of the Data Science related projects of my final Master's year. It showcases works across Data Science related tasks (Querying, Engineering, Processing and Visualizing). 
+This repo is a collection of the Data Science related projects of my final Master's year. It showcases works across Machine Learning and Data Science related tasks (Querying, Engineering, Processing and Visualizing). 
 
 The aim is to summarize the work I have achieved during this final Master's year and does not aim to be copied, except for personal use. By respect for the several third party authors involved in each of the projects, I have intentionally left project files aside, so code could not be run directly from the Git. Please contact me if you wish to work on a project in particular.
 
