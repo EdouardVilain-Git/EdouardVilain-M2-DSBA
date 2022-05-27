@@ -1,8 +1,12 @@
 # Edouard Vilain - M2 in Data Sciences & Business Analytics
 
+<p align="center">
+  <img src="./images/CENTRALEESSEC.png" alt="CentraleSupélec & ESSEC" width="600"/>
+</p>
+
 ## Introduction
 
-This repo is a collection of the Data Science related projects of my final Master's year. It showcases works across Machine Learning and Data Science related tasks (Querying, Engineering, Processing and Visualizing). 
+This repo is a collection of **the Data Science related projects of my final Master's year**. It showcases works across **Machine Learning and Data Science** related tasks (Querying, Engineering, Processing and Visualizing). 
 
 The aim is to summarize the work I have achieved during this final Master's year and does not aim to be copied, except for personal use. By respect for the several third party authors involved in each of the projects, I have intentionally left project files aside, so code could not be run directly from the Git. Please contact me if you wish to work on a project in particular.
 
@@ -38,13 +42,15 @@ Here is a short summary of the projects showcased in this repo. For technical de
 - **Project Description:** A Data Challenge organized by BCG Gamma on driver delivery scheduling. We were asked for two deliverables:
   - a predictive model for Parisian traffic density using public data.
   - a strategy to organize a delivery company's driver schedule according to our model's results.
-- **Final Result:** We built a simple Catboost model with heavy feature engineering. Model performed extremely well when including environmental features such as weather, temperature and covid restrictions state. Our group **won the challenge** by providing the two best deliverables.
+- **Final Result:** We built a simple Catboost model with heavy feature engineering. Model performed extremely well when including environmental features such as weather, temperature and covid restrictions state.
+- **Ranking:** Our group **won the challenge** by providing the two best deliverables.
 
 ### 2. Eleven Strategy Hackathon - Worksite Monitoring <a name="elevenhackathon"></a>
 
 - **Duration:** 1 week.
 - **Project Description:** A Hackathon organized by Eleven Strategy to ensure worksite safety by "utilizing Computer Vision technology". We were asked to develop a convolutional model to detect workers on worksites and use it to produce an on-site security protocol.
-- **Final Result:** We used worksite annotated images to train Facebook's Detectron2. The model was transfer learned and produced extremely satisfying results in practice. We then created an API on Streamlit that would identify workers in real-time by processing on-site security camera images. Alerts would be sent when workers were detected in an unsual zone of the worksite. Our group **finished second** of the Hackathon.
+- **Final Result:** We used worksite annotated images to train Facebook's Detectron2. The model was transfer learned and produced extremely satisfying results in practice. We then created an API on Streamlit that would identify workers in real-time by processing on-site security camera images. Alerts would be sent when workers were detected in an unsual zone of the worksite.
+- **Ranking:** Our group **finished second** of the Hackathon.
 
 ### 3. Corporate Research Project - Sensitive Pen for Dysgraphia Detection <a name="crp"></a>
 
@@ -53,7 +59,7 @@ Here is a short summary of the projects showcased in this repo. For technical de
 - **Final Result:** Data preprocessing was the crucial part of this project. Because the recordings were incredibly noisy, we extracted their statistical properties to produce a 1-dimensional feature set rather than building LSTMs. Based on this pre-processed data, we implemented two models:
   - A Decision Tree, with the intent of having highly interpretable results. 
   - A Deep Learning approach inspired from [How to Use Convolutional Neural Networks for Time Series Classification](https://towardsdatascience.com/how-to-use-convolutional-neural-networks-for-time-series-classification-56b1b0a07a57), with the intent of having enhanced results. 
-  - **Results** were practically unsatisfying (an RMSE of 5 for a score ranging from 0 to 40) but it was understood with our collaborator that **we lacked extensively in data.** Indeed, we worked with a dataset of under 40 patients, not enough to build a generalizable model, especially on such a complex task. In any case, **the PhD student and her supervisors were extremely pleased with the results**, which showed to be promising when data would be sufficient. 
+  - **Results were unsatisfying** in practice (a RMSE of 5 for a score ranging from 0 to 40) but it was understood with our collaborator that **we lacked extensively in data.** Indeed, we worked with a dataset of under 40 patients, not enough to build a generalizable model, especially on such a complex task. In any case, **the PhD student and her supervisors were extremely pleased with the results**, which showed to be promising when data would be sufficient. 
 
 
 ## II- Course Final Projects <a name="courseprojects"></a>
