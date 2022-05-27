@@ -152,7 +152,7 @@ Here is a short summary of the projects showcased in this repo. For technical de
 ### 2. Advanced Deep Learning <a name="adl"></a>
 
  - **Course Duration:** 3 months.
- - **Group Size:** 3.
+ - **Group Size:** 2.
  - **Assignments:**
     1. **Multiclass Classification -** Simple handwritten digits classification with Convolution Neural Networks on the [USPS dataset](https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/multiclass/usps.bz2). Extensive model architecture and hyper-parameter tuning.
     2. **Regression -** Simple Regression task with Dense Neural Networks on a house pricing task. Extensive model architecture and hyper-parameter tuning.
