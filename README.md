@@ -38,6 +38,10 @@ Here is a short summary of the projects showcased in this repo. For technical de
 
 ### 1. BCG Gamma Data Challenge - Predicting Parisian Road Traffic for Delivery Scheduling <a name="bcgchallenge"></a>
 
+<p align="center">
+  <img src="./images/BCG-Gamma.jpg" alt="BCG GAMMA" width="500"/>
+</p>
+
 - **Duration:** 1 week.
 - **Project Description:** A Data Challenge organized by BCG Gamma on driver delivery scheduling. We were asked for two deliverables:
   - a predictive model for Parisian traffic density using public data.
@@ -46,6 +50,11 @@ Here is a short summary of the projects showcased in this repo. For technical de
 - **Ranking:** Our group **won the challenge** by providing the two best deliverables.
 
 ### 2. Eleven Strategy Hackathon - Worksite Monitoring <a name="elevenhackathon"></a>
+<p>&nbsp;</p>
+
+<p align="center">
+  <img src="./images/ElevenStrategy.png" alt="Eleven Strategy" width="300"/>
+</p>
 
 - **Duration:** 1 week.
 - **Project Description:** A Hackathon organized by Eleven Strategy to ensure worksite safety by "utilizing Computer Vision technology". We were asked to develop a convolutional model to detect workers on worksites and use it to produce an on-site security protocol.
@@ -54,13 +63,16 @@ Here is a short summary of the projects showcased in this repo. For technical de
 
 ### 3. Corporate Research Project - Sensitive Pen for Dysgraphia Detection <a name="crp"></a>
 
+<p align="center">
+  <img src="./images/CRI.jpg" alt="CRI" width="200"/>
+</p>
+
 - **Duration:** 6 months.
 - **Project Description:** A research oriented project in collaboration with a CRI (Centre de Recherche Interdisciplinaire) PhD student. Her doctorate work focuses on dysgraphia and more specifically on building scalable tools for large scale detection. Dysgraphia, which is a deficiency in the ability to write, can be healed when diagnosed early. Thus, by analyzing handwriting data and building Machine Learning models, we aimed to **predict cases of dysgraphia in children**. Though I cannot unveil the work the PhD student is currently pursuing, the data we worked with corresponds to writing recordings from patients in the form of a variable size time series signal.
 - **Final Result:** Data preprocessing was the crucial part of this project. Because the recordings were incredibly noisy, we extracted their statistical properties to produce a 1-dimensional feature set rather than building LSTMs. Based on this pre-processed data, we implemented two models:
   - A Decision Tree, with the intent of having highly interpretable results. 
   - A Deep Learning approach inspired from [How to Use Convolutional Neural Networks for Time Series Classification](https://towardsdatascience.com/how-to-use-convolutional-neural-networks-for-time-series-classification-56b1b0a07a57), with the intent of having enhanced results. 
-  - **Results were unsatisfying** in practice (a RMSE of 5 for a score ranging from 0 to 40) but it was understood with our collaborator that **we lacked extensively in data.** Indeed, we worked with a dataset of under 40 patients, not enough to build a generalizable model, especially on such a complex task. In any case, **the PhD student and her supervisors were extremely pleased with the results**, which showed to be promising when data would be sufficient. 
-
+  - **Results were unsatisfying** in practice (a RMSE of 5 for a score ranging from 0 to 40) but it was understood with our collaborator that **we lacked extensively in data.** Indeed, we worked with a dataset of under 40 patients, not enough to build a generalizable model, especially on such a complex task. In any case, **the PhD student and her supervisors were extremely pleased with the results**, which showed to be promising when data would be sufficient.
 
 ## II- Course Final Projects <a name="courseprojects"></a>
 
@@ -95,7 +107,6 @@ Here is a short summary of the projects showcased in this repo. For technical de
 - **Duration:** 2 weeks.
 - **Project Description:**
 - **Final Result:**
-
 
 ## III- Course Assignments <a name="assignments"></a>
 
