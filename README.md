@@ -6,7 +6,7 @@
 
 ## Introduction
 
-This repo is a collection of **the Data Science related projects of my final Master's year**. It showcases works across **Machine Learning and Data Science** related tasks (Querying, Engineering, Processing and Visualizing). 
+This repo is a collection of **the Data Science related projects of my final Master's year**. It showcases works across **Machine Learning and Data Science** related tasks (Querying, Engineering, Processing and Visualizing). For obvious reasons, not all of my work can be found on this repository.
 
 The aim is to summarize the work I have achieved during this final Master's year and does not aim to be copied, except for personal use. By respect for the several third party authors involved in each of the projects, I have intentionally left project files aside, so code could not be run directly from the Git. Please contact me if you wish to work on a project in particular.
 
@@ -78,11 +78,19 @@ Here is a short summary of the projects showcased in this repo. For technical de
 
 ### 1. Machine Learning in Network Sciences - Moderating Subreddits using Hyperlink Networks <a name="subreddit"></a>
 
+<p align="center">
+  <img src="./images/subreddits.png" alt="Subreddits" width="300"/>
+</p>
+
 - **Duration:** 2 weeks.
 - **Project Description:** This project is an extension of [Community Interaction and Conflict on the Web](https://cs.stanford.edu/~srijan/pubs/conflict-paper-www18.pdf). It aimed to design an automatic moderation technique for harmful Subreddits. Based on historical Subreddit interaction data, we studied their behaviours using **a graph based approach**. While predicting interactions between Reddit groups, we identified potentially harmful ones to focus on for increased moderation.
 - **Final Result:** Using a dynamic graph based approach, we were able to predict with good precision the positive and negative interactions of Subreddits from one year to another. This required to build yearly graph structures and extract induced historical features from Subreddits and between Subreddits. We then implemented **a Deep Learning based link prediction model** to predict positive and negative interactions. Based on these predictions we defined a heuristic $harmfulness$ coefficient able to identify relatively harmful Subreddits of the coming year.
 
 ### 2. Fundamentals of Deep Learning - Segmenting UAV Images of Flooded Residential Areas <a name="floods"></a>
+
+<p align="center">
+  <img src="./images/unet.png" alt="U-Net" width="400"/>
+</p>
 
 - **Duration:** 1 month.
 - **Project Description:** A Kaggle competition which aimed to segment images of flooded residential areas around Houston. Practically, this would have several applications including efficient support deployment or damage reporting. The problem was formulated as multi-class classification and models were evaluated using a macro-F1 score. Data included 261 images and their associated annotated mask.
@@ -90,6 +98,10 @@ Here is a short summary of the projects showcased in this repo. For technical de
 - **Grade:** 16/20. 
 
 ### 3. Advanced Optimization - Grid Search Optimization <a name="gridsearch"></a>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/20640612/144015610-e3f73bc8-ba73-424a-ac8d-2a96926bfa89.gif" alt="Grid Search" width="400"/>
+</p>
 
 - **Duration:** 2 weeks.
 - **Project Description:** An open project on optimization topics. We were asked to contribute to any existing open-source project with an application in optimization algorithms. We worked on an open issue of the Gradient Free Optimizers library ([Gradient-Free-Optimizers](https://github.com/SimonBlanke/Gradient-Free-Optimizers)) of Python aiming to **implement Grid Search optimization**. Grid Search is a brute force optimization algorithm which computes the target function over a specified grid and returns the minimizing/maximizing index.
