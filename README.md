@@ -6,7 +6,7 @@
 
 ## Introduction
 
-This repo is a collection of **the Data Science related projects of my final Master's year**. It showcases works across **Machine Learning and Data Science** related tasks (Querying, Engineering, Processing and Visualizing). For obvious reasons, not all of my work can be found on this repository.
+This repo is a collection of **the Data Science related projects of my final Master's year**. It showcases my projects across **Machine Learning and Data Science** related tasks (Querying, Engineering, Processing and Visualizing).
 
 The aim is to summarize the work I have achieved during this final Master's year and does not aim to be copied, except for personal use. By respect for the several third party authors involved in each of the projects, I have intentionally left project files aside, so code could not be run directly from the Git. Please contact me if you wish to work on a project in particular.
 
@@ -24,10 +24,9 @@ The aim is to summarize the work I have achieved during this final Master's year
     5. [Analyzing Financial Time Series with Persistent Homology](#financecrash)
 3. [Course Assignments](#assignments)
     1. [Advanced Machine Learning](#aml)
-    2. [Advanced Statistics](#statistics)
-    3. [Advanced Deep Learning](#adl)
-    4. [Ensemble Learning](#ensemble)
-    5. [Natural Language Processing](#nlp)
+    2. [Advanced Deep Learning](#adl)
+    3. [Ensemble Learning](#ensemble)
+    4. [Natural Language Processing](#nlp)
 
 ## Project Summaries
 
@@ -48,7 +47,7 @@ Here is a short summary of the projects showcased in this repo. For technical de
   - a predictive model for Parisian traffic density using public data.
   - a strategy to organize a delivery company's driver schedule according to our model's results.
 - **Final Result:** We built a simple Catboost model with heavy feature engineering. Model performed extremely well when including environmental features such as weather, temperature and covid restrictions state.
-- **Ranking:** Our group **won the challenge** by providing the two best deliverables.
+- **Ranking:** 1st Place.
 
 ### 2. Eleven Strategy Hackathon - Worksite Monitoring <a name="elevenhackathon"></a>
 <p>&nbsp;</p>
@@ -61,7 +60,7 @@ Here is a short summary of the projects showcased in this repo. For technical de
 - **Group Size:** 4.
 - **Project Description:** A Hackathon organized by Eleven Strategy to ensure worksite safety by "utilizing Computer Vision technology". We were asked to develop a convolutional model to detect workers on worksites and use it to produce an on-site security protocol.
 - **Final Result:** We used worksite annotated images to train Facebook's Detectron2. The model was transfer learned and produced extremely satisfying results in practice. We then created an API on Streamlit that would identify workers in real-time by processing on-site security camera images. Alerts would be sent when workers were detected in an unsual zone of the worksite.
-- **Ranking:** Our group **finished second** of the Hackathon.
+- **Ranking:** 2nd Place.
 
 ### 3. Corporate Research Project - Sensitive Pen for Dysgraphia Detection <a name="crp"></a>
 
@@ -142,23 +141,30 @@ Here is a short summary of the projects showcased in this repo. For technical de
 
 - **Course Duration:** 3 months.
 - **Group Size:** 1.
+- **Assignments:**
+    1. **Clustering -** Implementation of Agglomerative Single Linkage Clustering. Comparison to other linkage methods (ward, complete, average) and clustering algorithms (k-means, DBSCAN, HDBSCAN). Application to image segmentation and compression.
+    2. **Regression -** Implementation of Ridge, Lasso and Robust Regression. Application to time series prediction (bycicles traffic).
+    3. **Stochastic Gradient Descent -** Implementation of Logistic Regression. Implementation of the Stochastic Gradient Descent algorithm in the case of Logistic Regression and with several optimizers (Vanilla, Adagrad, RMSProp, Momentum and ADAM). Application to the [w8a dataset](https://www.openml.org/search?type=data&sort=runs&id=1588&status=active), comparison of optimizer performance and hyper-parameter tuning.
+    4. **Non-Negative Matrix Factorization -** Implementation of an NMF algorithm. Appplication to the Olivetti Faces Dataset and finding the best factorization dimension. Application to topic modelization of the 20 new groups text dataset.
+    5. **Gaussian Mixture Models & Model Order Selection-** Implementation of a Gaussian Mixture Model class and the associated EM (Expectation-Maximization) training algorithm. Application to handwritten digits generation using the [MNIST dataset](http://yann.lecun.com/exdb/mnist/) reduced in lower dimension.
+- **Grade:** 16/20.
 
-### 2. Advanced Statistics <a name="statistics"></a>
-
- - **Course Duration:** 3 months.
- - **Group Size:** 1.
-
-### 3. Advanced Deep Learning <a name="adl"></a>
+### 2. Advanced Deep Learning <a name="adl"></a>
 
  - **Course Duration:** 3 months.
  - **Group Size:** 3.
+ - **Assignments:**
+    1. **Multiclass Classification -** Simple handwritten digits classification with Convolution Neural Networks on the [USPS dataset](https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/multiclass/usps.bz2). Extensive model architecture and hyper-parameter tuning.
+    2. **Regression -** Simple Regression task with Dense Neural Networks on a house pricing task. Extensive model architecture and hyper-parameter tuning.
+    3. **Gradcam-** Implementation of the Grad-Cam algorithm using Pytorch forward and backward hooks. Application to the pre-trained ResNet-18 architecture and a dataset of animal images.
+    4. **Graph Neural Networks -** Building Graph Neural Networks [Graph Convolutional](https://docs.dgl.ai/generated/dgl.nn.pytorch.conv.GraphConv.html) and [Graph Attention Convolutional layers](https://docs.dgl.ai/generated/dgl.nn.pytorch.conv.GATConv.html). Application to a classification task on the [Legacy PPI Dataset](https://docs.dgl.ai/en/0.6.x/_modules/dgl/data/ppi.html).
 
-### 4. Ensemble Learning <a name="ensemble"></a>
+### 3. Ensemble Learning <a name="ensemble"></a>
 
  - **Course Duration:** 2 months.
  - **Group Size:** 4.
 
-### 5. NLP <a name="nlp"></a>
+### 4. NLP <a name="nlp"></a>
 
  - **Course Duration:** 3 months.
  - **Group Size:** 2.
