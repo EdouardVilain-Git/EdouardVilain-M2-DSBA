@@ -222,7 +222,7 @@ Here is a short summary of the projects showcased in this repo. For technical de
     2. **T5 Model and Attention Heads -** Applied the T5 model from HuggingFace on several tasks (Translation, Summarization and Question Answering). Manually implemented [BLEU](https://aclanthology.org/P02-1040.pdf) and [ROUGE](https://aclanthology.org/W04-1013.pdf) evaluation metrics. Implemented manual token decoding methods for the T5 model. Visualized and compared attention head activation of the T5 model on several tasks (Translation, Summarization and Question Answering) and aggregated activation of the attention heads across heads and layers. Implemented the [confidence aggregation metric](https://aclanthology.org/P19-1580.pdf) to compare attention head behaviour across tasks.
  - **Grade:** TBD.
 
-### [5. Forecasting & Predictive Analytics]() <a name="forecasting"></a>
+### [5. Forecasting & Predictive Analytics](https://github.com/EdouardVilain-Git/EdouardVilain-M2-DSBA/tree/main/3.%20Course%20Assignments/Forecasting%20%26%20Predictive%20Analytics) <a name="forecasting"></a>
  **Keywords:** Forecasting, Python, R
 
 <p align="center">
