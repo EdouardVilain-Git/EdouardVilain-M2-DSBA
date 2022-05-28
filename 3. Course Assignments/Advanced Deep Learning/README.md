@@ -15,3 +15,24 @@
     6.  **[Koopman Decomposition applied to the Duffing Oscillator](https://nicholasgeneva.com/deep-learning/koopman/dynamics/2020/05/30/intro-to-koopman.html) -** Implementation of the Encoder-Processor-Decoder architecture of **the Koopman Module**. Solving the Duffing Oscillator in discrete time using the Koopman Module. Implementation of the Encoder-Processor-Decoder architecture of **the Lie Module**. Solving the Duffing Oscillator in continuous time using the Lie Module.
     7.  **Generative Models -** Implementation of three different generative models to sample data from the [moons distribution](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.make_moons.html): Generative Adversarial Networks (GANs), Variational AutoEncoders (VAEs) and Normalizing Flows.
 - **Grade:** TBD.
+
+---
+
+- **Files Description:**
+    - **[Classification -](https://github.com/EdouardVilain-Git/EdouardVilain-M2-DSBA/blob/main/3.%20Course%20Assignments/Advanced%20Deep%20Learning/classification.ipynb)** Code of the classification tasks.
+    - **[Regression -](https://github.com/EdouardVilain-Git/EdouardVilain-M2-DSBA/blob/main/3.%20Course%20Assignments/Advanced%20Deep%20Learning/regression.ipynb)** Code of the regression tasks.
+    - **[GradCam -](https://github.com/EdouardVilain-Git/EdouardVilain-M2-DSBA/blob/main/3.%20Course%20Assignments/Advanced%20Deep%20Learning/gradcam.ipynb)** GradCam implementation.
+    - **[Graph Neural Networks -](https://github.com/EdouardVilain-Git/EdouardVilain-M2-DSBA/blob/main/3.%20Course%20Assignments/Advanced%20Deep%20Learning/graphs.ipynb)** Code of the Graph Neural Networks application case.
+    - **[Transfer Learning -](https://github.com/EdouardVilain-Git/EdouardVilain-M2-DSBA/blob/main/3.%20Course%20Assignments/Advanced%20Deep%20Learning/transfer.ipynb)** Transfer learning code.
+    - **[Koopman and Lie Modules -](https://github.com/EdouardVilain-Git/EdouardVilain-M2-DSBA/blob/main/3.%20Course%20Assignments/Advanced%20Deep%20Learning/koopman.ipynb)** Implementation and application of the Koopman and Lie Modules.
+    - **[Generative Models -](https://github.com/EdouardVilain-Git/EdouardVilain-M2-DSBA/blob/main/3.%20Course%20Assignments/Advanced%20Deep%20Learning/generative.ipynb)** Generative models code.
+
+<br>
+
+<p align="center">
+  <b>Koopman Module Prediction on the Duffing Oscillator</b>
+</p>
+
+<p align="center">
+    <img src="./images/koopmanpred.png" alt="clusters" width="800"/>
+</p>
