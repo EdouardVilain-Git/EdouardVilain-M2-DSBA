@@ -20,7 +20,7 @@ The aim is to summarize the work I have achieved during this final Master's year
 | **Natural Language Processing** | [Natural Language Processing](#nlp)<br>[Ensemble Learning](#ensemble) |
 | **Graphs** | [Moderating Subreddits using Hyperlink Networks](#subreddit)<br>[Advanced Deep Learning](#adl) |
 | **Object Oriented Programming** | [Grid Search Optimization](#gridsearch)<br>[Analyzing Financial Time Series with Persistent Homology](#financecrash) |
-| **Signal Processing** | [Corporate Research Project](#crp) |
+| **Signal Processing** | [Corporate Research Project](#crp)<br>[Forecasting & Predictive Analytics](#forecasting) |
 | **Topology** | [Analyzing Financial Time Series with Persistent Homology](#financecrash) |
 
 ## Project Summaries
