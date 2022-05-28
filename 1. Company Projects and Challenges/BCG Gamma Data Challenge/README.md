@@ -17,3 +17,10 @@
 - **Files Description:**
     - **[Traffic Prediction Model -](https://github.com/EdouardVilain-Git/EdouardVilain-M2-DSBA/blob/main/1.%20Company%20Projects%20and%20Challenges/BCG%20Gamma%20Data%20Challenge/Traffic%20Prediction%20Model.ipynb)** Data pre-processing, training and evaluation of the Parisian traffic forecasting model.
     - **[Final Presentation -](https://github.com/EdouardVilain-Git/EdouardVilain-M2-DSBA/blob/main/1.%20Company%20Projects%20and%20Challenges/BCG%20Gamma%20Data%20Challenge/Final%20Presentation.odp)** Final deliverable containing the model presentation and the strategical plan for rider delivery planning.
+
+<br>
+
+<p align="center">
+  <b>Traffic Prediction vs True Traffic - 1 Week Forecasting Horizon</b>
+  <img src="./images/predictions.png" title="Traffic Prediction vs Ground Truth - 1 Week Forecasting Horizon" alt="BCG Predictions" width="800"/>
+</p>
