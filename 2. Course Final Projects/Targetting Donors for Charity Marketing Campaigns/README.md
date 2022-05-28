@@ -7,3 +7,15 @@
     1. a donor should only be sollicitated for a campaign if his/her donation expectation is higher than the sollicitation cost.
     2. a donor should not be sollicitated more than his/her ideal number of sollicitations. In the case he could donate in more campaigns, only select the ones with the best donation expectation.
 - **Grade:** 18/20 (9/10 on managerial insights, 9/10 on analytics).
+
+---
+
+- **Files Description:**
+    - ****
+
+<br>
+
+<p align="center">
+  <b>Multi-Class Segmentation of a Test UAV Image</b>
+  <img src="./images/segmentation.png" alt="segmentation" width="800"/>
+</p>
