@@ -44,6 +44,7 @@ Here is a short summary of the projects showcased in this repo. For technical de
     2. [Advanced Deep Learning](#adl)
     3. [Ensemble Learning](#ensemble)
     4. [Natural Language Processing](#nlp)
+    5. [Forecasting & Predictive Analytics](#forecasting)
 
 ## [I- Company Projects and Challenges](https://github.com/EdouardVilain-Git/EdouardVilain-M2-DSBA/tree/main/1.%20Company%20Projects%20and%20Challenges) <a name="companyprojects"></a>
 
@@ -220,3 +221,12 @@ Here is a short summary of the projects showcased in this repo. For technical de
     1. **SkipGram -** Implemented the SkipGram model. Trained it on a corpus of 1 Million news articles.
     2. **T5 Model and Attention Heads -** Applied the T5 model from HuggingFace on several tasks (Translation, Summarization and Question Answering). Manually implemented [BLEU](https://aclanthology.org/P02-1040.pdf) and [ROUGE](https://aclanthology.org/W04-1013.pdf) evaluation metrics. Implemented manual token decoding methods for the T5 model. Visualized and compared attention head activation of the T5 model on several tasks (Translation, Summarization and Question Answering) and aggregated activation of the attention heads across heads and layers. Implemented the [confidence aggregation metric](https://aclanthology.org/P19-1580.pdf) to compare attention head behaviour across tasks.
  - **Grade:** TBD.
+
+### [5. Forecasting & Predictive Analytics]() <a name="forecasting"></a>
+ **Keywords:** Forecasting, Python, R
+
+ - **Course Duration:** 3 months.
+ - **Group Size:** 3.
+ - **Assignment:**
+    1. **Forecasting Walmart Sales -** A reproduction of the [M5 Competition](https://mofc.unic.ac.cy/m5-competition/) for Walmart sales forecasting. Fitting Univariate Naive, ES, MA, SARIMA, SARIMAX, State-Space and probabilistic models. Fitting Multivariate VAR models and Machine/Deep Learning models. Predicting with variable horizon sizes and comparing results with competition leaderboard.
+ - **Grade:** 16/20.
