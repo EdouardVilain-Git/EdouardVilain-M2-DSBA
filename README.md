@@ -16,7 +16,7 @@ The aim is to summarize the work I have achieved during this final Master's year
 | Category | Projects & Courses |
 | -------- | -------- |
 | **Image Processing** | [Eleven Strategy Hackathon](#elevenhackathon)<br>[Corporate Research Project](#crp)<br>[Segmenting UAV Images of Flooded Residential Areas](#floods)<br>[Advanced Deep Learning](#adl) |
-| **Forecasting** | [BCG Gamma Data Challenge](#bcgchallenge)<br>[Targetting Donors for Charity Marketing Campaigns](#donorcampaign) |
+| **Forecasting** | [BCG Gamma Data Challenge](#bcgchallenge)<br>[Targetting Donors for Charity Marketing Campaigns](#donorcampaign)<br>[Forecasting & Predictive Analytics](#forecasting) |
 | **Natural Language Processing** | [Natural Language Processing](#nlp)<br>[Ensemble Learning](#ensemble) |
 | **Graphs** | [Moderating Subreddits using Hyperlink Networks](#subreddit)<br>[Advanced Deep Learning](#adl) |
 | **Object Oriented Programming** | [Grid Search Optimization](#gridsearch)<br>[Analyzing Financial Time Series with Persistent Homology](#financecrash) |
