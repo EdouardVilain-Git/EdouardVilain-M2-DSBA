@@ -11,11 +11,16 @@
 ---
 
 - **Files Description:**
-    - ****
+    - **[Campaign Clustering -](https://github.com/EdouardVilain-Git/EdouardVilain-M2-DSBA/blob/main/2.%20Course%20Final%20Projects/Targetting%20Donors%20for%20Charity%20Marketing%20Campaigns/campaign_clustering.R)** Code for the Marketing Campaigns Clustering.
+    - **[Donation Expectation Model -](https://github.com/EdouardVilain-Git/EdouardVilain-M2-DSBA/blob/main/2.%20Course%20Final%20Projects/Targetting%20Donors%20for%20Charity%20Marketing%20Campaigns/models_3_4.R)** Code to model donor donation value, probability, responsiveness and total donations.
+    - **[SQL Queries -](https://github.com/EdouardVilain-Git/EdouardVilain-M2-DSBA/tree/main/2.%20Course%20Final%20Projects/Targetting%20Donors%20for%20Charity%20Marketing%20Campaigns/queries)** All SQL queries used for feature engineering. 
 
 <br>
 
 <p align="center">
-  <b>Multi-Class Segmentation of a Test UAV Image</b>
-  <img src="./images/segmentation.png" alt="segmentation" width="800"/>
+  <b>Marketing Campaign Clusters</b>
+</p>
+
+<p align="center">
+    <img src="./images/clusters.jpg" alt="clusters" width="600"/>
 </p>
