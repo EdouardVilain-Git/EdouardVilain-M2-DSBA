@@ -1,5 +1,9 @@
 # Ensemble Learning <a name="ensemble"></a>
 
+<p align="center">
+  <img src="../../images/boosting.png" alt="VAE" width="450"/>
+</p>
+
  - **Course Duration:** 2 months.
  - **Group Size:** 4.
  - **Assignments:**
