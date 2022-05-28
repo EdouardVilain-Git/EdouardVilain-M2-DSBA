@@ -14,11 +14,17 @@
 ---
 
 - **Files Description:**
-    - 
+    - **[Detectron Model -](https://github.com/EdouardVilain-Git/EdouardVilain-M2-DSBA/blob/main/1.%20Company%20Projects%20and%20Challenges/Eleven%20Strategy%20Hackathon/Detectron2.ipynb)** The notebook used to transfer learn the Detectron2 model.
+    - **[YOLOv5 Model -](https://github.com/EdouardVilain-Git/EdouardVilain-M2-DSBA/blob/main/1.%20Company%20Projects%20and%20Challenges/Eleven%20Strategy%20Hackathon/YOLOv5s.ipynb)** The notebook used to transfer learn the YOLOv5 model.
 
 <br>
 
 <p align="center">
-  <b>From Time Series to Spectrograms</b>
-  <img src="./images/spectrograms.png" alt="Spectrograms" width="800"/>
+  <b>Real Time Work Site Monitoring API (Streamlit)</b>
+  <img src="./images/streamlit.png" alt="Streamlit" width="800"/>
+</p>
+
+<p align="center">
+  <b>YOLOv5 Worker Detection Prediction</b>
+  <img src="./images/prediction.png" alt="Detection Prediction" width="800"/>
 </p>
