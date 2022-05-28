@@ -141,6 +141,10 @@ Here is a short summary of the projects showcased in this repo. For technical de
 
 ### 1. Advanced Machine Learning <a name="aml"></a>
 
+<p align="center">
+  <img src="./images/robustregression.png" alt="Robust Regression" width="300"/>
+</p>
+
 - **Course Duration:** 3 months.
 - **Group Size:** 1.
 - **Assignments:**
@@ -152,6 +156,10 @@ Here is a short summary of the projects showcased in this repo. For technical de
 - **Grade:** 16/20.
 
 ### 2. Advanced Deep Learning <a name="adl"></a>
+
+<p align="center">
+  <img src="./images/vae.png" alt="VAE" width="500"/>
+</p>
 
  - **Course Duration:** 3 months.
  - **Group Size:** 2.
@@ -167,6 +175,10 @@ Here is a short summary of the projects showcased in this repo. For technical de
 
 ### 3. Ensemble Learning <a name="ensemble"></a>
 
+<p align="center">
+  <img src="./images/boosting.png" alt="VAE" width="400"/>
+</p>
+
  - **Course Duration:** 2 months.
  - **Group Size:** 4.
  - **Assignments:**
@@ -174,7 +186,11 @@ Here is a short summary of the projects showcased in this repo. For technical de
     2. **Cyberbullying Classification of Tweets -** Classification of annotated tweets into 8 cyberbullying categories. Feature engineering of tweets including Stemming, Lemmatisation, stop-word removal and TF-IDF vectorization. Also simple tweet features such as length, characters, hashtags, retweets and presence of swear-words. Application of ensemble models to the classification task: Random Forests, XGBoost, CatBoost...
  - **Grade -** TBD.
 
-### 4. NLP <a name="nlp"></a>
+### 4. Natural Language Processing <a name="nlp"></a>
+
+<p align="center">
+  <img src="./images/huggingface.png" alt="VAE" width="400"/>
+</p>
 
  - **Course Duration:** 3 months.
  - **Group Size:** 2.
