@@ -1,5 +1,9 @@
 # Advanced Deep Learning <a name="adl"></a>
 
+<p align="center">
+  <img src="../../images/vae.png" alt="VAE" width="500"/>
+</p>
+
  - **Course Duration:** 3 months.
  - **Group Size:** 2.
  - **Assignments:**
