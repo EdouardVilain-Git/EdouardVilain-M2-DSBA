@@ -37,6 +37,7 @@ Here is a short summary of the projects showcased in this repo. For technical de
 ## [I- Company Projects and Challenges](https://github.com/EdouardVilain-Git/EdouardVilain-M2-DSBA/tree/main/1.%20Company%20Projects%20and%20Challenges) <a name="companyprojects"></a>
 
 ### [1. BCG Gamma Data Challenge - Predicting Parisian Road Traffic for Delivery Scheduling](https://github.com/EdouardVilain-Git/EdouardVilain-M2-DSBA/tree/main/1.%20Company%20Projects%20and%20Challenges/BCG%20Gamma%20Data%20Challenge) <a name="bcgchallenge"></a>
+**Keywords:** Business Case, Forecasting, Forecasting, Python, Git
 
 <p align="center">
   <img src="./images/BCG-Gamma.jpg" alt="BCG GAMMA" width="500"/>
@@ -52,6 +53,7 @@ Here is a short summary of the projects showcased in this repo. For technical de
 
 ### [2. Eleven Strategy Hackathon - Worksite Monitoring](https://github.com/EdouardVilain-Git/EdouardVilain-M2-DSBA/tree/main/1.%20Company%20Projects%20and%20Challenges/Eleven%20Strategy%20Hackathon) <a name="elevenhackathon"></a>
 <p>&nbsp;</p>
+**Keywords:** Business Case, CNN, Python, Streamlit, Git
 
 <p align="center">
   <img src="./images/ElevenStrategy.png" alt="Eleven Strategy" width="300"/>
@@ -64,6 +66,7 @@ Here is a short summary of the projects showcased in this repo. For technical de
 - **Ranking:** 2nd Place.
 
 ### [3. Corporate Research Project - Sensitive Pen for Dysgraphia Detection](https://github.com/EdouardVilain-Git/EdouardVilain-M2-DSBA/tree/main/1.%20Company%20Projects%20and%20Challenges/Corporate%20Research%20Project) <a name="crp"></a>
+**Keywords:** Research Project, Signal Processing, CNN (Detection), Python, Unix, Git
 
 <p align="center">
   <img src="./images/CRI.jpg" alt="CRI" width="200"/>
@@ -80,6 +83,7 @@ Here is a short summary of the projects showcased in this repo. For technical de
 ## [II- Course Final Projects](https://github.com/EdouardVilain-Git/EdouardVilain-M2-DSBA/tree/main/2.%20Course%20Final%20Projects) <a name="courseprojects"></a>
 
 ### [1. Machine Learning in Network Sciences - Moderating Subreddits using Hyperlink Networks](https://github.com/EdouardVilain-Git/EdouardVilain-M2-DSBA/tree/main/2.%20Course%20Final%20Projects/Moderating%20Subreddits%20using%20Hyperlink%20Networks) <a name="subreddit"></a>
+**Keywords:** Graphs, Link Prediction, Python
 
 <p align="center">
   <img src="./images/subreddits.png" alt="Subreddits" width="300"/>
@@ -92,6 +96,7 @@ Here is a short summary of the projects showcased in this repo. For technical de
 - **Grade:** TBD.
 
 ### [2. Fundamentals of Deep Learning - Segmenting UAV Images of Flooded Residential Areas](https://github.com/EdouardVilain-Git/EdouardVilain-M2-DSBA/tree/main/2.%20Course%20Final%20Projects/Segmenting%20UAV%20Images%20of%20Flooded%20Residential%20Areas) <a name="floods"></a>
+**Keywords:** Kaggle, CNN (Segmentation), Python
 
 <p align="center">
   <img src="./images/unet.png" alt="U-Net" width="400"/>
@@ -104,6 +109,7 @@ Here is a short summary of the projects showcased in this repo. For technical de
 - **Grade:** 16/20. 
 
 ### [3. Advanced Optimization - Grid Search Optimization](https://github.com/EdouardVilain-Git/EdouardVilain-M2-DSBA/tree/main/2.%20Course%20Final%20Projects/Grid%20Search%20Optimization) <a name="gridsearch"></a>
+**Keywords:** Open-Source, Optimization, Object Oriented, Python, Git, Unix
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/20640612/144015610-e3f73bc8-ba73-424a-ac8d-2a96926bfa89.gif" alt="Grid Search" width="400"/>
@@ -116,6 +122,7 @@ Here is a short summary of the projects showcased in this repo. For technical de
 - **Grade:** 19/20.
 
 ### [4. Marketing Analytics - Targetting Donors for Charity Marketing Campaigns](https://github.com/EdouardVilain-Git/EdouardVilain-M2-DSBA/tree/main/2.%20Course%20Final%20Projects/Targetting%20Donors%20for%20Charity%20Marketing%20Campaigns) <a name="donorcampaign"></a>
+**Keywords:** Business Case, Forecasting, Clustering, R, SQL
 
 - **Duration:** 1 month.
 - **Group Size:** 5.
@@ -126,6 +133,7 @@ Here is a short summary of the projects showcased in this repo. For technical de
 - **Grade:** 18/20 (9/10 on managerial insights, 9/10 on analytics).
 
 ### [5. Topological Methods for Data Analysis - Analyzing Financial Time Series with Persistent Homology](https://github.com/EdouardVilain-Git/EdouardVilain-M2-DSBA/tree/main/2.%20Course%20Final%20Projects/Analyzing%20Financial%20Time%20Series%20with%20Persistent%20Homology) <a name="financecrash"></a>
+**Keywords:** Research Project, Topological Analysis, Object Oriented, Python
 
 <p align="center">
   <img src="./images/dotcomcrash.jpeg" alt="Dotcom Crash" width="400"/>
@@ -140,6 +148,7 @@ Here is a short summary of the projects showcased in this repo. For technical de
 ## [III- Course Assignments](https://github.com/EdouardVilain-Git/EdouardVilain-M2-DSBA/tree/main/3.%20Course%20Assignments) <a name="assignments"></a>
 
 ### [1. Advanced Machine Learning](https://github.com/EdouardVilain-Git/EdouardVilain-M2-DSBA/tree/main/3.%20Course%20Assignments/Advanced%20Machine%20Learning) <a name="aml"></a>
+**Keywords:** Theory, ML Algorithms, Python
 
 <p align="center">
   <img src="./images/robustregression.png" alt="Robust Regression" width="300"/>
@@ -156,6 +165,7 @@ Here is a short summary of the projects showcased in this repo. For technical de
 - **Grade:** 16/20.
 
 ### [2. Advanced Deep Learning](https://github.com/EdouardVilain-Git/EdouardVilain-M2-DSBA/tree/main/3.%20Course%20Assignments/Advanced%20Deep%20Learning) <a name="adl"></a>
+ **Keywords:** DL Theory & Applications, Python
 
 <p align="center">
   <img src="./images/vae.png" alt="VAE" width="500"/>
@@ -174,6 +184,7 @@ Here is a short summary of the projects showcased in this repo. For technical de
 - **Grade:** TBD.
 
 ### [3. Ensemble Learning](https://github.com/EdouardVilain-Git/EdouardVilain-M2-DSBA/tree/main/3.%20Course%20Assignments/Ensemble%20Learning) <a name="ensemble"></a>
+ **Keywords:** ML Algorithms, Sentiment Analysis, Python
 
 <p align="center">
   <img src="./images/boosting.png" alt="VAE" width="400"/>
@@ -187,6 +198,7 @@ Here is a short summary of the projects showcased in this repo. For technical de
  - **Grade -** TBD.
 
 ### [4. Natural Language Processing](https://github.com/EdouardVilain-Git/EdouardVilain-M2-DSBA/tree/main/3.%20Course%20Assignments/Natural%20Language%20Processing) <a name="nlp"></a>
+ **Keywords:** NLP Theory & Applications, Hugging Face, Python
 
 <p align="center">
   <img src="./images/huggingface.png" alt="VAE" width="400"/>
