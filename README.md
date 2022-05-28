@@ -27,12 +27,12 @@ The aim is to summarize the work I have achieved during this final Master's year
 
 | Language/Tool | Projects & Courses |
 | -------- | -------- |
-| **Python** |  |
-| **SQL** |  |
-| **R** |  |
-| **Unix** |  |
-| **Git** |  |
-| **Streamlit** |  |
+| **Python** | All Projects |
+| **Git** | [BCG Gamma Data Challenge](#bcgchallenge)<br>[Eleven Strategy Hackathon](#elevenhackathon)<br>[Corporate Research Project](#crp)<br>[Grid Search Optimization](#gridsearch) |
+| **R** | [Targetting Donors for Charity Marketing Campaigns](#donorcampaign)<br>[Forecasting & Predictive Analytics](#forecasting) |
+| **Unix** | [Corporate Research Project](#crp)<br>[Grid Search Optimization](#gridsearch) |
+| **SQL** | [Targetting Donors for Charity Marketing Campaigns](#donorcampaign) |
+| **Streamlit** | [Eleven Strategy Hackathon](#elevenhackathon) |
 
 
 ## Project Summaries
