@@ -34,7 +34,7 @@ The aim is to summarize the work I have achieved during this final Master's year
 Here is a short summary of the projects showcased in this repo. For technical details or an in-depth look at the related code, please take a look at the related project file.
 
 
-## I- Company Projects and Challenges <a name="companyprojects"></a>
+## [I- Company Projects and Challenges](https://github.com/EdouardVilain-Git/EdouardVilain-M2-DSBA/tree/main/1.%20Company%20Projects%20and%20Challenges) <a name="companyprojects"></a>
 
 ### 1. BCG Gamma Data Challenge - Predicting Parisian Road Traffic for Delivery Scheduling <a name="bcgchallenge"></a>
 
