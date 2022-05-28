@@ -15,4 +15,4 @@
 ---
 
 - **Files Description:**
-    - 
+    - **[Spectrogram Approach to Time Series Regression -](https://github.com/EdouardVilain-Git/EdouardVilain-M2-DSBA/blob/main/1.%20Company%20Projects%20and%20Challenges/Corporate%20Research%20Project/Spectrogram%20Prediction.pdf)** Some slides describing the convolutional approach to patient recordings. This describes how we converted time series into images (spectrograms), on which we could apply common convolutional Deep Learning techniques. We also evaluate the model on test patients.
