@@ -36,7 +36,7 @@ Here is a short summary of the projects showcased in this repo. For technical de
 
 ## [I- Company Projects and Challenges](https://github.com/EdouardVilain-Git/EdouardVilain-M2-DSBA/tree/main/1.%20Company%20Projects%20and%20Challenges) <a name="companyprojects"></a>
 
-### 1. BCG Gamma Data Challenge - Predicting Parisian Road Traffic for Delivery Scheduling <a name="bcgchallenge"></a>
+### [1. BCG Gamma Data Challenge - Predicting Parisian Road Traffic for Delivery Scheduling](https://github.com/EdouardVilain-Git/EdouardVilain-M2-DSBA/tree/main/1.%20Company%20Projects%20and%20Challenges/BCG%20Gamma%20Data%20Challenge) <a name="bcgchallenge"></a>
 
 <p align="center">
   <img src="./images/BCG-Gamma.jpg" alt="BCG GAMMA" width="500"/>
@@ -50,7 +50,7 @@ Here is a short summary of the projects showcased in this repo. For technical de
 - **Final Result:** We built a simple Catboost model with heavy feature engineering. Model performed extremely well when including environmental features such as weather, temperature and covid restrictions state.
 - **Ranking:** 1st Place.
 
-### 2. Eleven Strategy Hackathon - Worksite Monitoring <a name="elevenhackathon"></a>
+### [2. Eleven Strategy Hackathon - Worksite Monitoring](https://github.com/EdouardVilain-Git/EdouardVilain-M2-DSBA/tree/main/1.%20Company%20Projects%20and%20Challenges/Eleven%20Strategy%20Hackathon) <a name="elevenhackathon"></a>
 <p>&nbsp;</p>
 
 <p align="center">
@@ -63,7 +63,7 @@ Here is a short summary of the projects showcased in this repo. For technical de
 - **Final Result:** We used worksite annotated images to train Facebook's Detectron2. The model was transfer learned and produced extremely satisfying results in practice. We then created an API on Streamlit that would identify workers in real-time by processing on-site security camera images. Alerts would be sent when workers were detected in an unsual zone of the worksite.
 - **Ranking:** 2nd Place.
 
-### 3. Corporate Research Project - Sensitive Pen for Dysgraphia Detection <a name="crp"></a>
+### [3. Corporate Research Project - Sensitive Pen for Dysgraphia Detection](https://github.com/EdouardVilain-Git/EdouardVilain-M2-DSBA/tree/main/1.%20Company%20Projects%20and%20Challenges/Corporate%20Research%20Project) <a name="crp"></a>
 
 <p align="center">
   <img src="./images/CRI.jpg" alt="CRI" width="200"/>
@@ -77,9 +77,9 @@ Here is a short summary of the projects showcased in this repo. For technical de
   - A Deep Learning approach inspired from [How to Use Convolutional Neural Networks for Time Series Classification](https://towardsdatascience.com/how-to-use-convolutional-neural-networks-for-time-series-classification-56b1b0a07a57), with the intent of having enhanced results. 
   - **Results were unsatisfying** in practice (a RMSE of 5 for a score ranging from 0 to 40) but it was understood with our collaborator that **we lacked extensively in data.** Indeed, we worked with a dataset of under 40 patients, not enough to build a generalizable model, especially on such a complex task. In any case, **the PhD student and her supervisors were extremely pleased with the results**, which showed to be promising when data would be sufficient.
 
-## II- Course Final Projects <a name="courseprojects"></a>
+## [II- Course Final Projects](https://github.com/EdouardVilain-Git/EdouardVilain-M2-DSBA/tree/main/2.%20Course%20Final%20Projects) <a name="courseprojects"></a>
 
-### 1. Machine Learning in Network Sciences - Moderating Subreddits using Hyperlink Networks <a name="subreddit"></a>
+### [1. Machine Learning in Network Sciences - Moderating Subreddits using Hyperlink Networks](https://github.com/EdouardVilain-Git/EdouardVilain-M2-DSBA/tree/main/2.%20Course%20Final%20Projects/Moderating%20Subreddits%20using%20Hyperlink%20Networks) <a name="subreddit"></a>
 
 <p align="center">
   <img src="./images/subreddits.png" alt="Subreddits" width="300"/>
@@ -91,7 +91,7 @@ Here is a short summary of the projects showcased in this repo. For technical de
 - **Final Result:** Using a dynamic graph based approach, we were able to predict with good precision the positive and negative interactions of Subreddits from one year to another. This required to build yearly graph structures and extract induced historical features from Subreddits and between Subreddits. We then implemented **a Deep Learning based link prediction model** to predict positive and negative interactions. Based on these predictions we defined a heuristic $harmfulness$ coefficient able to identify relatively harmful Subreddits of the coming year.
 - **Grade:** TBD.
 
-### 2. Fundamentals of Deep Learning - Segmenting UAV Images of Flooded Residential Areas <a name="floods"></a>
+### [2. Fundamentals of Deep Learning - Segmenting UAV Images of Flooded Residential Areas](https://github.com/EdouardVilain-Git/EdouardVilain-M2-DSBA/tree/main/2.%20Course%20Final%20Projects/Segmenting%20UAV%20Images%20of%20Flooded%20Residential%20Areas) <a name="floods"></a>
 
 <p align="center">
   <img src="./images/unet.png" alt="U-Net" width="400"/>
@@ -103,7 +103,7 @@ Here is a short summary of the projects showcased in this repo. For technical de
 - **Final Result:** Using **Pytorch**, we implemented a **U-Net** model from scratch which was trained on an augmented version of the described dataset. **Augmentation methods** included rotation, distortion and cropping. Our **U-Net** architecture was optimized according to our available computational resource: as U-Nets are generally resource intensive, we had to restrict the depth of the network and of its convolutional components. In fine, we obtained a test F1-score of 68.7\% on a classification problem of 25 classes. Transfer trained models outperformed us by a margin, as it was possible to train larger architectures with already performing models. 
 - **Grade:** 16/20. 
 
-### 3. Advanced Optimization - Grid Search Optimization <a name="gridsearch"></a>
+### [3. Advanced Optimization - Grid Search Optimization](https://github.com/EdouardVilain-Git/EdouardVilain-M2-DSBA/tree/main/2.%20Course%20Final%20Projects/Grid%20Search%20Optimization) <a name="gridsearch"></a>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/20640612/144015610-e3f73bc8-ba73-424a-ac8d-2a96926bfa89.gif" alt="Grid Search" width="400"/>
@@ -115,7 +115,7 @@ Here is a short summary of the projects showcased in this repo. For technical de
 - **Final Result:** As part of an existing open-source project, we adopted the Object Oriented Approach to inherit pre-existing Parent classes. The brute implementation of Grid Search is quite simple: start at the top left of the grid and make a jump on the right at each step. We observed a major inconvenience with this method. In most cases, Grid Search is run on a finite number of steps rather than on the grid's total size. Therefore, we designed a method that would explore a larger and sparser area of the grid in a low number of steps. This method is based on the cyclic nature of **mZ** in **Z/pZ** when **p** and **m** are prime. Thus, by choosing a convenient value of **m**, prime to the total grid size **p**, and searching through the grid in a **mZ** manner, we observe sparser areas of the grid in a low amount of iterations. The cyclic nature of our search method ensures that the grid is completely covered in **p** iterations, which ensures equal time complexity to the normal method.
 - **Grade:** 19/20.
 
-### 4. Marketing Analytics - Targetting Donors for Charity Marketing Campaigns <a name="donorcampaign"></a>
+### [4. Marketing Analytics - Targetting Donors for Charity Marketing Campaigns](https://github.com/EdouardVilain-Git/EdouardVilain-M2-DSBA/tree/main/2.%20Course%20Final%20Projects/Targetting%20Donors%20for%20Charity%20Marketing%20Campaigns) <a name="donorcampaign"></a>
 
 - **Duration:** 1 month.
 - **Group Size:** 5.
@@ -125,7 +125,7 @@ Here is a short summary of the projects showcased in this repo. For technical de
     2. a donor should not be sollicitated more than his/her ideal number of sollicitations. In the case he could donate in more campaigns, only select the ones with the best donation expectation.
 - **Grade:** 18/20 (9/10 on managerial insights, 9/10 on analytics).
 
-### 5. Topological Methods for Data Analysis - Analyzing Financial Time Series with Persistent Homology <a name="financecrash"></a>
+### [5. Topological Methods for Data Analysis - Analyzing Financial Time Series with Persistent Homology](https://github.com/EdouardVilain-Git/EdouardVilain-M2-DSBA/tree/main/2.%20Course%20Final%20Projects/Analyzing%20Financial%20Time%20Series%20with%20Persistent%20Homology) <a name="financecrash"></a>
 
 <p align="center">
   <img src="./images/dotcomcrash.jpeg" alt="Dotcom Crash" width="400"/>
@@ -137,9 +137,9 @@ Here is a short summary of the projects showcased in this repo. For technical de
 - **Final Result:** First, we implemented an Object Oriented version of Persistence Landscapes (representation of a topological dataset's Rips Filtration in a Banach Space, see [1](https://arxiv.org/pdf/1703.04385.pdf) for further details).  We compared our implementation to the existing Gudhi library, which is state-of-the-art, and proved our implementation is better by a margin in terms of both correctness and time complexity. Second, we developped the paper's analysis by reimplementing their method and adding additional arguments to support their claim. As they mention, TDA seems to be an efficient method to detect market crashes early. Indeed, the latter show brutal intakes in variance and spectral density of the $L^1$ and $L^2$ norms of their persistence landscapes prior to both the Dotcom Crash and the Lehmann Bankruptcy. Moreover, **we have shown that using variable window sizes and higher order norms for the topological analysis enable earlier detection of major stock market crashes**. Though a compromise must be found between precision and computational constraints, the choice of a higher window size and higher degree norms is advised.
 - **Grade:** 15/20.
 
-## III- Course Assignments <a name="assignments"></a>
+## [III- Course Assignments](https://github.com/EdouardVilain-Git/EdouardVilain-M2-DSBA/tree/main/3.%20Course%20Assignments) <a name="assignments"></a>
 
-### 1. Advanced Machine Learning <a name="aml"></a>
+### [1. Advanced Machine Learning](https://github.com/EdouardVilain-Git/EdouardVilain-M2-DSBA/tree/main/3.%20Course%20Assignments/Advanced%20Machine%20Learning) <a name="aml"></a>
 
 <p align="center">
   <img src="./images/robustregression.png" alt="Robust Regression" width="300"/>
@@ -155,7 +155,7 @@ Here is a short summary of the projects showcased in this repo. For technical de
     5. **Gaussian Mixture Models & Model Order Selection-** Implementation of a Gaussian Mixture Model class and the associated EM (Expectation-Maximization) training algorithm. Application to handwritten digits generation using the [MNIST dataset](http://yann.lecun.com/exdb/mnist/) reduced in lower dimension.
 - **Grade:** 16/20.
 
-### 2. Advanced Deep Learning <a name="adl"></a>
+### [2. Advanced Deep Learning](https://github.com/EdouardVilain-Git/EdouardVilain-M2-DSBA/tree/main/3.%20Course%20Assignments/Advanced%20Deep%20Learning) <a name="adl"></a>
 
 <p align="center">
   <img src="./images/vae.png" alt="VAE" width="500"/>
@@ -173,7 +173,7 @@ Here is a short summary of the projects showcased in this repo. For technical de
     7.  **Generative Models -** Implementation of three different generative models to sample data from the [moons distribution](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.make_moons.html): Generative Adversarial Networks (GANs), Variational AutoEncoders (VAEs) and Normalizing Flows.
 - **Grade:** TBD.
 
-### 3. Ensemble Learning <a name="ensemble"></a>
+### [3. Ensemble Learning](https://github.com/EdouardVilain-Git/EdouardVilain-M2-DSBA/tree/main/3.%20Course%20Assignments/Ensemble%20Learning) <a name="ensemble"></a>
 
 <p align="center">
   <img src="./images/boosting.png" alt="VAE" width="400"/>
@@ -186,7 +186,7 @@ Here is a short summary of the projects showcased in this repo. For technical de
     2. **Cyberbullying Classification of Tweets -** Classification of annotated tweets into 8 cyberbullying categories. Feature engineering of tweets including Stemming, Lemmatisation, stop-word removal and TF-IDF vectorization. Also simple tweet features such as length, characters, hashtags, retweets and presence of swear-words. Application of ensemble models to the classification task: Random Forests, XGBoost, CatBoost...
  - **Grade -** TBD.
 
-### 4. Natural Language Processing <a name="nlp"></a>
+### [4. Natural Language Processing](https://github.com/EdouardVilain-Git/EdouardVilain-M2-DSBA/tree/main/3.%20Course%20Assignments/Natural%20Language%20Processing) <a name="nlp"></a>
 
 <p align="center">
   <img src="./images/huggingface.png" alt="VAE" width="400"/>
