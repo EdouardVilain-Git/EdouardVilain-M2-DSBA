@@ -11,7 +11,23 @@ This repo is a collection of **the Data Science related projects of my final Mas
 
 The aim is to summarize the work I have achieved during this final Master's year and does not aim to be copied, except for personal use. By respect for the several third party authors involved in each of the projects, I have intentionally left project files aside, so code could not be run directly from the Git. Please contact me if you wish to work on a project in particular.
 
-## Table of Contents
+## Projects per Category
+
+| Category | Projects & Courses |
+| -------- | -------- |
+| **Image Processing** | [Eleven Strategy Hackathon](#elevenhackathon)<br>[Corporate Research Project](#crp)<br>[Segmenting UAV Images of Flooded Residential Areas](#floods)<br>[Advanced Deep Learning](#adl) |
+| **Forecasting** | [BCG Gamma Data Challenge](#bcgchallenge)<br>[Targetting Donors for Charity Marketing Campaigns](#donorcampaign) |
+| **Natural Language Processing** | [Natural Language Processing](#nlp)<br>[Ensemble Learning](#ensemble) |
+| **Graphs** | [Moderating Subreddits using Hyperlink Networks](#subreddit)<br>[Advanced Deep Learning](#adl) |
+| **Object Oriented Programming** | [Grid Search Optimization](#gridsearch)<br>[Analyzing Financial Time Series with Persistent Homology](#financecrash) |
+| **Signal Processing** | [Corporate Research Project](#crp) |
+| **Topology** | [Analyzing Financial Time Series with Persistent Homology](#financecrash) |
+
+## Project Summaries
+
+Here is a short summary of the projects showcased in this repo. For technical details or an in-depth look at the related code, please take a look at the related project file.
+
+### Table of Contents
 
 1. [Company Projects and Challenges](#companyprojects)
     1. [BCG Gamma Data Challenge](#bcgchallenge)
@@ -29,15 +45,10 @@ The aim is to summarize the work I have achieved during this final Master's year
     3. [Ensemble Learning](#ensemble)
     4. [Natural Language Processing](#nlp)
 
-## Project Summaries
-
-Here is a short summary of the projects showcased in this repo. For technical details or an in-depth look at the related code, please take a look at the related project file.
-
-
 ## [I- Company Projects and Challenges](https://github.com/EdouardVilain-Git/EdouardVilain-M2-DSBA/tree/main/1.%20Company%20Projects%20and%20Challenges) <a name="companyprojects"></a>
 
 ### [1. BCG Gamma Data Challenge - Predicting Parisian Road Traffic for Delivery Scheduling](https://github.com/EdouardVilain-Git/EdouardVilain-M2-DSBA/tree/main/1.%20Company%20Projects%20and%20Challenges/BCG%20Gamma%20Data%20Challenge) <a name="bcgchallenge"></a>
-**Keywords:** Business Case, Forecasting, Forecasting, Python, Git
+**Keywords:** Business Case, Forecasting, Python, Git
 
 <p align="center">
   <img src="./images/BCG-Gamma.jpg" alt="BCG GAMMA" width="500"/>
@@ -52,8 +63,7 @@ Here is a short summary of the projects showcased in this repo. For technical de
 - **Ranking:** 1st Place.
 
 ### [2. Eleven Strategy Hackathon - Worksite Monitoring](https://github.com/EdouardVilain-Git/EdouardVilain-M2-DSBA/tree/main/1.%20Company%20Projects%20and%20Challenges/Eleven%20Strategy%20Hackathon) <a name="elevenhackathon"></a>
-<p>&nbsp;</p>
-**Keywords:** Business Case, CNN, Python, Streamlit, Git
+**Keywords:** Business Case, CNN (Detection), Python, Streamlit, Git
 
 <p align="center">
   <img src="./images/ElevenStrategy.png" alt="Eleven Strategy" width="300"/>
