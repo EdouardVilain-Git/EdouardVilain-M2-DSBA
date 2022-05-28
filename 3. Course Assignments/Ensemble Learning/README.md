@@ -20,9 +20,9 @@
 <br>
 
 <p align="center">
-  <b>Comparison of K-Means and Gaussian Mixtures</b>
+  <b>Confusion Matrix of Tweet Classification - Test Data</b>
 </p>
 
 <p align="center">
-    <img src="./images/gaussianmixtures.png" alt="mixtures" width="900"/>
+    <img src="./images/tweet_prediction.png" alt="tweet" width="600"/>
 </p>
