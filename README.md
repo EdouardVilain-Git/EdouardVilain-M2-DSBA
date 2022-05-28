@@ -225,6 +225,10 @@ Here is a short summary of the projects showcased in this repo. For technical de
 ### [5. Forecasting & Predictive Analytics]() <a name="forecasting"></a>
  **Keywords:** Forecasting, Python, R
 
+<p align="center">
+  <img src="./images/m5.png" alt="VAE" width="500"/>
+</p>
+
  - **Course Duration:** 3 months.
  - **Group Size:** 3.
  - **Assignment:**
