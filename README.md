@@ -1,11 +1,5 @@
-
 # Final Engineering Year and M2 in Data Sciences & Business Analytics
-<p align="center">
-  <h1 style="font-size:10vw">
-    <strong>Edouard Vilain</strong>
-  </h1>
-</p>
-
+## Edouard Vilain
 
 <p align="center">
   <img src="./images/CENTRALEESSEC.png" alt="CentraleSupélec & ESSEC" width="600"/>
