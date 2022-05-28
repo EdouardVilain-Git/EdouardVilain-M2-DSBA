@@ -1,4 +1,4 @@
-# 3. Corporate Research Project - Sensitive Pen for Dysgraphia Detection <a name="crp"></a>
+# Corporate Research Project - Sensitive Pen for Dysgraphia Detection <a name="crp"></a>
 
 <p align="center">
   <img src="../../images/CRI.jpg" alt="CRI" width="200"/>
