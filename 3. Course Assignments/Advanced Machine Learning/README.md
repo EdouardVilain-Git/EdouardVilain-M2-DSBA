@@ -13,3 +13,22 @@
     4. **Non-Negative Matrix Factorization -** Implementation of an NMF algorithm. Appplication to the Olivetti Faces Dataset and finding the best factorization dimension. Application to topic modelization of the 20 new groups text dataset.
     5. **Gaussian Mixture Models & Model Order Selection-** Implementation of a Gaussian Mixture Model class and the associated EM (Expectation-Maximization) training algorithm. Application to handwritten digits generation using the [MNIST dataset](http://yann.lecun.com/exdb/mnist/) reduced in lower dimension.
 - **Grade:** 16/20.
+
+---
+
+- **Files Description:**
+    - **[Clustering -](https://github.com/EdouardVilain-Git/EdouardVilain-M2-DSBA/blob/main/3.%20Course%20Assignments/Advanced%20Machine%20Learning/clustering.ipynb)** Implementation of clustering algorithms.
+    - **[Regression -](https://github.com/EdouardVilain-Git/EdouardVilain-M2-DSBA/blob/main/3.%20Course%20Assignments/Advanced%20Machine%20Learning/regression.ipynb)** Implementation of regression methods.
+    - **[Stochastic Gradient Descent -](https://github.com/EdouardVilain-Git/EdouardVilain-M2-DSBA/blob/main/3.%20Course%20Assignments/Advanced%20Machine%20Learning/sgd.ipynb)** Stochastic Gradient Descent implementation and optimizer comparison.
+    - **[Non-Negative Matrix Factorization -](https://github.com/EdouardVilain-Git/EdouardVilain-M2-DSBA/blob/main/3.%20Course%20Assignments/Advanced%20Machine%20Learning/nmf.ipynb)** Non-Negative Matrix Factorization implementation and applications.
+    - **[Gaussian Mixture Models & Model Order Selection-](https://github.com/EdouardVilain-Git/EdouardVilain-M2-DSBA/blob/main/3.%20Course%20Assignments/Advanced%20Machine%20Learning/gaussianmixtures.ipynb)** Gaussian Mixture Models implementation and applications.
+
+<br>
+
+<p align="center">
+  <b>Comparison of K-Means and Gaussian Mixtures</b>
+</p>
+
+<p align="center">
+    <img src="./images/gaussianmixtures.png" alt="mixtures" width="900"/>
+</p>
