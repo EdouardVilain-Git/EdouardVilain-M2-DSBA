@@ -1,5 +1,9 @@
 # Advanced Machine Learning <a name="aml"></a>
 
+<p align="center">
+  <img src="../../images/robustregression.png" alt="Robust Regression" width="350"/>
+</p>
+
 - **Course Duration:** 3 months.
 - **Group Size:** 1.
 - **Assignments:**
