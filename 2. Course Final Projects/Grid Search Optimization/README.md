@@ -13,11 +13,4 @@
 ---
 
 - **Files Description:**
-    - ****
-
-<br>
-
-<p align="center">
-  <b>Persistence Diagram Properties Before Major Market Crashes</b>
-  <img src="./images/persistencediagrams.png" alt="persistence" width="600"/>
-</p>
+    - **[Code -](https://github.com/EdouardVilain-Git/EdouardVilain-M2-DSBA/blob/main/2.%20Course%20Final%20Projects/Grid%20Search%20Optimization/grid_search.py)** Main code file for Grid Search implementation. Find the whole project on [Gradient-Free-Optimizers](https://github.com/SimonBlanke/Gradient-Free-Optimizers).
