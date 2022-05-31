@@ -20,10 +20,7 @@
 
 - **Files Description:**
     - **[Classification -](https://github.com/EdouardVilain-Git/EdouardVilain-M2-DSBA/blob/main/3.%20Course%20Assignments/Advanced%20Deep%20Learning/classification.ipynb)** Code of the classification tasks.
-    - **[Regression -](https://github.com/EdouardVilain-Git/EdouardVilain-M2-DSBA/blob/main/3.%20Course%20Assignments/Advanced%20Deep%20Learning/regression.ipynb)** Code of the regression tasks.
     - **[GradCam -](https://github.com/EdouardVilain-Git/EdouardVilain-M2-DSBA/blob/main/3.%20Course%20Assignments/Advanced%20Deep%20Learning/gradcam.ipynb)** GradCam implementation.
-    - **[Graph Neural Networks -](https://github.com/EdouardVilain-Git/EdouardVilain-M2-DSBA/blob/main/3.%20Course%20Assignments/Advanced%20Deep%20Learning/graphs.ipynb)** Code of the Graph Neural Networks application case.
-    - **[Transfer Learning -](https://github.com/EdouardVilain-Git/EdouardVilain-M2-DSBA/blob/main/3.%20Course%20Assignments/Advanced%20Deep%20Learning/transfer.ipynb)** Transfer learning code.
     - **[Koopman and Lie Modules -](https://github.com/EdouardVilain-Git/EdouardVilain-M2-DSBA/blob/main/3.%20Course%20Assignments/Advanced%20Deep%20Learning/koopman.ipynb)** Implementation and application of the Koopman and Lie Modules.
     - **[Generative Models -](https://github.com/EdouardVilain-Git/EdouardVilain-M2-DSBA/blob/main/3.%20Course%20Assignments/Advanced%20Deep%20Learning/generative.ipynb)** Generative models code.
 
