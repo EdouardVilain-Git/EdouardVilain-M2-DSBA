@@ -18,9 +18,7 @@
 
 - **Files Description:**
     - **[Clustering -](https://github.com/EdouardVilain-Git/EdouardVilain-M2-DSBA/blob/main/3.%20Course%20Assignments/Advanced%20Machine%20Learning/clustering.ipynb)** Implementation of clustering algorithms.
-    - **[Regression -](https://github.com/EdouardVilain-Git/EdouardVilain-M2-DSBA/blob/main/3.%20Course%20Assignments/Advanced%20Machine%20Learning/regression.ipynb)** Implementation of regression methods.
     - **[Stochastic Gradient Descent -](https://github.com/EdouardVilain-Git/EdouardVilain-M2-DSBA/blob/main/3.%20Course%20Assignments/Advanced%20Machine%20Learning/sgd.ipynb)** Stochastic Gradient Descent implementation and optimizer comparison.
-    - **[Non-Negative Matrix Factorization -](https://github.com/EdouardVilain-Git/EdouardVilain-M2-DSBA/blob/main/3.%20Course%20Assignments/Advanced%20Machine%20Learning/nmf.ipynb)** Non-Negative Matrix Factorization implementation and applications.
     - **[Gaussian Mixture Models & Model Order Selection-](https://github.com/EdouardVilain-Git/EdouardVilain-M2-DSBA/blob/main/3.%20Course%20Assignments/Advanced%20Machine%20Learning/gaussianmixtures.ipynb)** Gaussian Mixture Models implementation and applications.
 
 <br>
