@@ -218,7 +218,7 @@ Here is a short summary of the projects showcased in this repo. For technical de
  - **Assignments:**
     1. **Decision Trees -** Implemented our own Object Oriented version of Decision Trees. Compared to sklearn in both classification and regression tasks. Our method performed with better precision on both cases but was much more computationally heavy (10 times the run time on simple cases). While sklearn creates splits using tree depth-search, our method analyzed all split possibilities at each iteration.
     2. **Cyberbullying Classification of Tweets -** Classification of annotated tweets into 8 cyberbullying categories. Feature engineering of tweets including Stemming, Lemmatisation, stop-word removal and TF-IDF vectorization. Also simple tweet features such as length, characters, hashtags, retweets and presence of swear-words. Application of ensemble models to the classification task: Random Forests, XGBoost, CatBoost...
- - **Grade -** TBD.
+ - **Grade -** 15/20.
 
 ### [4. Natural Language Processing](https://github.com/EdouardVilain-Git/EdouardVilain-M2-DSBA/tree/main/3.%20Course%20Assignments/Natural%20Language%20Processing) <a name="nlp"></a>
  **Keywords:** NLP Theory & Applications, Hugging Face, Python
